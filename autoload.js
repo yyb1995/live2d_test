@@ -1,4 +1,4 @@
-const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/";
+const live2d_path = "https://github.com/yyb1995/live2d_test/";
 //const live2d_path = "./";
 
 $("<link>").attr({href: live2d_path + "waifu.css", rel: "stylesheet", type: "text/css"}).appendTo("head");
